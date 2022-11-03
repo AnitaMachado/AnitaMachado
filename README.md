@@ -2,7 +2,6 @@
 
 - 👩‍💻 Analista de Sistemas Pleno atuando com implantação de sistemas de laboratório e performando em alguns momentos como PMO
 - 📚 Analise e desenvolvimento de sistemas - UNISUAM | Programação - PROJETO PROFISSÃO PROGRAMADOR
-- 📲 https://www.linkedin.com/in/anita-machado-a8113b65/
 
 ##
 
