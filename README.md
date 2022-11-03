@@ -10,7 +10,7 @@
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMachado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Anita-pic" height="60" width="80" style="border-radius:50px;" src="https://user-images.githubusercontent.com/116604819/199629695-f7deafd1-5374-4961-8666-01c3ff227603.png"> 
   <img align="center" alt="Anita-pic" height="30" width="40" style="border-radius:50px;" src=https://user-images.githubusercontent.com/116604819/199630920-e5323e62-1acc-4812-9bc8-7de1bf08c323.gif>
   <img align="center" alt="Anita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
