@@ -17,7 +17,7 @@
   <img align="center" alt="Anita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anita-CSS" height="30" width="40" src="https://media.licdn.com/dms/image/D4D12AQE5XoCSpOVOmg/article-cover_image-shrink_600_2000/0/1705767708038?e=2147483647&v=beta&t=ExJUApbzSr-H_ol-lvT0PV4eD4IseJvFwZHSpjLXVek">
-  <img align="center" alt="Anita-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
+  <img align="center" alt="Anita-CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
 </div>
 
 ##
