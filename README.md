@@ -1,6 +1,7 @@
 
-- 👩‍💻 Analista de Sistemas Pleno atuando com implantação de sistemas de laboratório e performando em alguns momentos como PMO
-- 📚 Analise e desenvolvimento de sistemas - UNISUAM | Programação - PROJETO PROFISSÃO PROGRAMADOR
+- 📚 Formada em Processos Gerenciais & Analise e desenvolvimento de sistemas
+- 📚 Especializada em Engenharia e Arquitetura de Dados
+- 👩‍💻 Analista de Soluções Digitais na TEES
 
 ##
 
