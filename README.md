@@ -13,11 +13,11 @@
 
 <div>
   <img align="center" alt="Anita-pic" height="60" width="80" style="border-radius:10px;" src="https://user-images.githubusercontent.com/116604819/199629695-f7deafd1-5374-4961-8666-01c3ff227603.png"> 
-  <img align="center" alt="Anita-pic" height="80" width="100" style="border-radius:10px;" src="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-setas-12.gif">
+  <img align="center" alt="Anita-pic" height="80" width="100" style="border-radius:10px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8wdzhvMnR0Y3ljOGx1eHFkbnF6ZGNncHdnb2h3M3llMWM4NGZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfF6mIPumEzN9QW0kL/giphy.gif">
   <img align="center" alt="Anita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anita-CSS" height="30" width="40" src="https://media.licdn.com/dms/image/D4D12AQE5XoCSpOVOmg/article-cover_image-shrink_600_2000/0/1705767708038?e=2147483647&v=beta&t=ExJUApbzSr-H_ol-lvT0PV4eD4IseJvFwZHSpjLXVek">
   <img align="center" alt="Anita-CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
+  <img align="center" alt="Anita-CSS" height="40" width="50" src="https://media.licdn.com/dms/image/D4D12AQE5XoCSpOVOmg/article-cover_image-shrink_600_2000/0/1705767708038?e=2147483647&v=beta&t=ExJUApbzSr-H_ol-lvT0PV4eD4IseJvFwZHSpjLXVek">
 </div>
 
 ##
